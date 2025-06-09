@@ -1,7 +1,6 @@
 import 'package:flutter/material.dart';
 
 import '../../../../core/widgets/custom_button.dart';
-import '../views/my_cart_view.dart' show PaymentMethodBottomSheet;
 import 'order_info_item.dart';
 import 'payment_method_bottom_sheet.dart';
 import 'total_price.dart';

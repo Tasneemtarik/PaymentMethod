@@ -4,7 +4,6 @@ import 'package:flutter/material.dart';
 import 'package:payment_method/Features/checkout/presentation/views/thank_you_view.dart';
 import 'package:payment_method/Features/checkout/presentation/widgets/custom_credit_card.dart';
 import 'package:payment_method/Features/checkout/presentation/widgets/payment_methods.dart';
-import 'package:payment_method/core/widgets/custom_app_bar.dart';
 import 'package:payment_method/core/widgets/custom_button.dart';
 
 class PaymentDetails extends StatefulWidget {
